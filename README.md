@@ -16,7 +16,7 @@ Fork from AI派
 - [x] [Pandas分类数据详解](notebook/05-Pandas分类数据详解.ipynb)
 - [x] [Pandas时间序列详解](notebook/06-Pandas时间序列详解.ipynb)
 - [x] [Pandas计算工具介绍](notebook/07-Pandas计算工具介绍.ipynb)
-- [ ] [Pandas索引选择详解](#目录)
+- [x] [Pandas筛选操作详解](notebook/08-Pandas筛选操作详解.ipynb)
 - [ ] [Pandas分组聚合详解](#目录)
 - [ ] [Pandas转换连接详解](#目录)
 - [ ] [Pandas重塑与透视表详解](#目录)
