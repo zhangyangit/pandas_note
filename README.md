@@ -15,7 +15,7 @@
 - [x] [Pandas时间序列详解](notebook/06-Pandas时间序列详解.ipynb)
 - [x] [Pandas计算工具介绍](notebook/07-Pandas计算工具介绍.ipynb)
 - [x] [Pandas筛选操作详解](notebook/08-Pandas筛选操作详解.ipynb)
-- [ ] [Pandas分组聚合详解](#目录)
+- [x] [Pandas分组聚合详解](notebook/09-Pandas分组聚合详解.ipynb)
 - [ ] [Pandas转换连接详解](#目录)
 - [ ] [Pandas重塑与透视表详解](#目录)
 - [ ] [Pandas IO操作详解](#目录)
