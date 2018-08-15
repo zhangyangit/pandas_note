@@ -17,7 +17,7 @@
 - [x] [Pandas筛选操作详解](notebook/08-Pandas筛选操作详解.ipynb)
 - [x] [Pandas分组聚合详解](notebook/09-Pandas分组聚合详解.ipynb)
 - [x] [Pandas转换连接详解](notebook/10-Pandas转换连接详解.ipynb)
-- [x] [Pandas IO操作详解](notebook/11-Pandas IO 操作详解.ipynb)
+- [x] [PandasIO操作详解](notebook/11-PandasIO操作详解.ipynb)
 - [x] [Pandas可视化详解](notebook/12-Pandas可视化详解.ipynb)
 
 # 更多
