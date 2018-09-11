@@ -19,6 +19,7 @@
 - [x] [Pandas转换连接详解](notebook/10-Pandas转换连接详解.ipynb)
 - [x] [PandasIO操作详解](notebook/11-PandasIO操作详解.ipynb)
 - [x] [Pandas可视化详解](notebook/12-Pandas可视化详解.ipynb)
+- [x] [用SQL的方式来玩Pandas](notebook/13-用SQL的方式来玩Pandas.ipynb)
 
 # 更多
 
