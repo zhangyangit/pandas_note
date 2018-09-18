@@ -18,10 +18,10 @@ Fork from AI派
 - [x] [Pandas计算工具介绍](notebook/07-Pandas计算工具介绍.ipynb)
 - [x] [Pandas筛选操作详解](notebook/08-Pandas筛选操作详解.ipynb)
 - [x] [Pandas分组聚合详解](notebook/09-Pandas分组聚合详解.ipynb)
-- [ ] [Pandas转换连接详解](#目录)
-- [ ] [Pandas重塑与透视表详解](#目录)
-- [ ] [Pandas IO操作详解](#目录)
-- [ ] [Pandas可视化详解](#目录)
+- [x] [Pandas转换连接详解](notebook/10-Pandas转换连接详解.ipynb)
+- [x] [PandasIO操作详解](notebook/11-PandasIO操作详解.ipynb)
+- [x] [Pandas可视化详解](notebook/12-Pandas可视化详解.ipynb)
+- [x] [用SQL的方式来玩Pandas](notebook/13-用SQL的方式来玩Pandas.ipynb)
 
 # 更多
 
